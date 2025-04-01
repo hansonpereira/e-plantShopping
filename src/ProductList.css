@@ -489,7 +489,8 @@
    background-color: rgb(240, 113, 55);
    width: 35px;
    height: 35px;
-  padding: 5px
+   padding: 5px;
+   font-style: normal ;
 
 
 }
@@ -515,8 +516,9 @@
   }
   .button_container{
     /* background-color: red; */
-    width:200px ;
+  
     display: flex;
+
     gap: 20px;
   }
   .details_button {
